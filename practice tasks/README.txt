@@ -1,0 +1,1 @@
+the word files contains all the solutions to the practice questions.All the questions combine upto about 2000 lines of code.Recommended to get comfortable with programming if its your first experience with it.
